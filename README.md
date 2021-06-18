@@ -1,5 +1,6 @@
 # random-user-generator
-#MY first Vue app
+
+MY first Vue app
 
 
 This is simple Vue Js application which displays data of random users from the API : https://randomuser.me/
